@@ -10,4 +10,6 @@ Screen shot
 Authors
 ===========
 
-SatishChandra Surampudi
+Name: Satish Chandra Surampudi.<br/>
+Position: Interactive Developer.<br/>
+Place: Bangalore, India.
