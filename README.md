@@ -2,7 +2,7 @@ collections
 ===========
 
 Drag and Drop jquery collection add-on for ecommerce site.
-
+<a href="http://sschandra.github.io/collections/"> Link to site</a>
 Screen shot
 ============
 <img src="assets/images/collections_screenshot.png" alt="Sreenshot"/>
