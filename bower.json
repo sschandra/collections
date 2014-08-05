@@ -1,0 +1,14 @@
+{
+  "name": "MyCollections",
+  "version": "0.0.0",
+  "description": "\"Drag and Drop for collections page\"",
+  "authors": [
+    "Satish Chandra"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-ui": "~1.11.0"
+  }
+}
