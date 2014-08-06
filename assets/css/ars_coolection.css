@@ -1509,7 +1509,7 @@ margin-top:10px;
 	display: block;
 	font-size:12px;
 }
-.documentation_wrap ul li{
+.documentation_wrap ol li{
 	line-height:25px;
 	margin-bottom:25px;
 }
