@@ -38,7 +38,7 @@ jQuery(document).ready(function(){
 		 
 		 $(this).children('div.ars_popClose').hide();
 		});
-		$('#img_div .ars_popClose').on('click',function ()
+		$(window.document).on('click','#img_div .ars_popClose',function ()
 		{
 		    if(confirm('Are you sure you want to delete?')){
 			$(this).parent('#img_div').children('input[type="hidden"]').val("");
