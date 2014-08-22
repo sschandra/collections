@@ -1500,3 +1500,16 @@ padding:2px;
 {
 margin-top:10px;
 }
+
+.documentation_wrap code{
+	padding: 15px;
+	background: #000;
+	color: #fff;
+	width: 100%;
+	display: block;
+	font-size:12px;
+}
+.documentation_wrap ol li{
+	line-height:25px;
+	margin-bottom:25px;
+}
