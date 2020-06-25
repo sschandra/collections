@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sschandra/collections",
   "dependencies": {
-    "bower": "~1.3.8"
+    "bower": "~1.8.8"
   }
 }
